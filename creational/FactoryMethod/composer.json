@@ -1,0 +1,19 @@
+{
+    "name": "kykyrudza-coding/factory-method",
+    "description": "Factory Method (PHP Architecture Pattern)",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KykyrudzaCoding\\FactoryMethod\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Smakouz Illea",
+            "email": "illeasmakouz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
