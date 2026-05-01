@@ -1,0 +1,19 @@
+{
+    "name": "kykyrudza-coding/singleton-method",
+    "description": "Singleton Method (PHP Architecture Pattern)",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KykyrudzaCoding\\Singleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Smakouz Illea",
+            "email": "illeasmakouz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
