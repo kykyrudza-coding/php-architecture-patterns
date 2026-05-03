@@ -15,7 +15,7 @@ $app = new Application(new InMemoryUserRepository());
 
 $app->run();
 ```
-
+## Purpose
 * separate data access logic
 * make code easier to test
 * allow replacing storage implementation
