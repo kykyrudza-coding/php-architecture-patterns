@@ -1,0 +1,19 @@
+{
+    "name": "kykyrudza-coding/decorator-method",
+    "description": "Decorator Method (PHP Architecture Pattern)",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "KykyrudzaCoding\\Decorator\\": "src/"
+      }
+    },
+    "authors": [
+        {
+            "name": "Smakouz Illea",
+            "email": "illeasmakouz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
