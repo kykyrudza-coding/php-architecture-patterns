@@ -1,0 +1,19 @@
+{
+    "name": "kykyrudza-coding/chain-of-responsibility-method",
+    "description": "Chain Of Responsibility Method (PHP Architecture Pattern)",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KykyrudzaCoding\\ChainOfResponsibility\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Smakouz Illea",
+            "email": "illeasmakouz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
