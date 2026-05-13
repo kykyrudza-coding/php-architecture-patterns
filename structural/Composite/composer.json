@@ -1,0 +1,19 @@
+{
+    "name": "kykyrudza-coding/composite-method",
+    "description": "Composite Method (PHP Architecture Pattern)",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KykyrudzaCoding\\Composite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Smakouz Illea",
+            "email": "illeasmakouz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
