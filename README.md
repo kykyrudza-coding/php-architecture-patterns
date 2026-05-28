@@ -15,11 +15,39 @@ Each pattern is implemented as a small standalone project with its own:
 
 #### Creational
 
+* Abstract Factory
+* Builder
+* Factory
+* Object Pool
+* Prototype
+* Singleton
+
 #### Structural
+
+* Adapter
+* Bridge
+* Composite
+* Decorator
+* Facade
+* Proxy
 
 #### Behavioral
 
+* Chain Of Responsibility
+* Command
+* Mediator
+* Observer
+* State
+* Strategy
+
 #### Practical
+
+* Dependency Injection
+* DTO
+* Event Dispatcher
+* Repository
+* Service Layer
+* Unit Of Work
 
 ## Usage
 
