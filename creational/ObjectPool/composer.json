@@ -1,0 +1,19 @@
+{
+    "name": "kykyrudza-coding/object-pool-method",
+    "description": "Object Pool Method (PHP Architecture Pattern)",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KykyrudzaCoding\\ObjectPool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Smakouz Illea",
+            "email": "illeasmakouz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
